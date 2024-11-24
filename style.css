@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+	width: 375px;
+	background-color: hsl(244, 38%, 16%);
+	border-radius: 10px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+.informacion{
+	padding: 35px;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Lexend Deca', sans-serif;
+	color:white;
+}
+
+.title-color {
+	color: hsl(277, 64%, 61%);
+}
+
+.parrafo {
+	color: hsla(0, 0%, 100%, 0.6);
+	font-family: 'Inter', sans-serif;
+	font-size: 13px;
+	margin-top: 20px;
+	line-height: 22px;
+}
+
+.datos {
+	margin-top: 20px;
+}
+
+.numeros{
+	font-size: 15px;
+	font-family: 'Inter', sans-serif;
+	color: white;
+}
+
+.palabras{
+	font-size: 10px;
+	font-family: 'Inter', sans-serif;
+	color: hsla(0, 0%, 100%, 0.6);
+	margin-top: 5px;
+	margin-bottom: 18px;
+}
+
+.datoscu {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 12px;
+	color: #b5b5b5;
+	text-transform: uppercase;
+	margin-top: 5px;
+	display: block;
+}
